@@ -2,7 +2,7 @@
 
 Published Date: September 18, 2022
 
-So for now after I decided to take a long hiatus in coding now I'm ready to take
+So after I decided to take a long hiatus in coding now I'm ready to take
 my initial and unfinish special project again I got some headaches when my university 
 has started too early for academic year.
 
